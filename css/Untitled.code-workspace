@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "DevelopmentStudios",
+			"path": ".."
+		},
+		{
+			"name": "assets",
+			"path": "../../../Downloads/Neko-Bot-Website-2/assets"
+		}
+	],
+	"settings": {}
+}

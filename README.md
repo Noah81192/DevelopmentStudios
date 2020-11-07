@@ -1,2 +1,0 @@
-# DevelopmentStudios
-Development Studios website.
